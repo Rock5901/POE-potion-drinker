@@ -17,5 +17,5 @@ You also need AutoHotKey to use the .ahk scripts included in this folder. (https
 ---------------------------------
 
 Keybinds:
-Up-arrow = Pause
+Up-arrow = Pause  
 Down-arrow = Exit Script
