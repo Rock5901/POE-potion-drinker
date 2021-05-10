@@ -15,6 +15,14 @@ You also need AutoHotKey to use the .ahk scripts included in this folder. (https
 3. Enjoy.
 
 ---------------------------------
+Disabling Certain Potion SLots:
+
+1. Edit PotionDrinker.py in notepad or any text editor
+2. find Potion1.start() or any PotionNUMBER.start() that you want to diable
+3. delete/comment the line " Potion1.start() "
+4. This will prevent the thread from starting and the potion will never be touched.
+
+---------------------------------
 
 Keybinds:
 Up-arrow = Pause  
