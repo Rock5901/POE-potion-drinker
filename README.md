@@ -15,7 +15,7 @@ You also need AutoHotKey to use the .ahk scripts included in this folder. (https
 3. Enjoy.
 
 ---------------------------------
-Disabling Certain Potion SLots:
+Disabling Certain Potion Slots:
 
 1. Edit PotionDrinker.py in notepad or any text editor
 2. find Potion1.start() or any PotionNUMBER.start() that you want to diable
